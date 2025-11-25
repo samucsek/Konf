@@ -1,0 +1,2 @@
+# Konf
+Konfigurationsmanagement Hausübung
